@@ -1,18 +1,35 @@
-import { DarkTheme, DefaultTheme, ThemeProvider } from 'expo-router';
-import * as SplashScreen from 'expo-splash-screen';
-import { useColorScheme } from 'react-native';
+import { Stack } from 'expo-router';
+import { StatusBar } from 'expo-status-bar';
+import { SafeAreaProvider } from 'react-native-safe-area-context';
 
-import { AnimatedSplashOverlay } from '@/components/animated-icon';
-import AppTabs from '@/components/app-tabs';
+import { colors } from '@/design-system/tokens';
+import { AppDataProvider } from '@/features/app-data/AppDataProvider';
 
-SplashScreen.preventAutoHideAsync();
-
-export default function TabLayout() {
-  const colorScheme = useColorScheme();
+export default function RootLayout() {
   return (
-    <ThemeProvider value={colorScheme === 'dark' ? DarkTheme : DefaultTheme}>
-      <AnimatedSplashOverlay />
-      <AppTabs />
-    </ThemeProvider>
+    <SafeAreaProvider>
+      <AppDataProvider>
+        <StatusBar style="dark" />
+        <Stack
+          screenOptions={{
+            headerShown: false,
+            contentStyle: { backgroundColor: colors.background },
+          }}>
+          <Stack.Screen name="index" options={{ animation: 'none' }} />
+          <Stack.Screen name="onboarding" options={{ animation: 'fade', gestureEnabled: false }} />
+          <Stack.Screen name="(tabs)" options={{ animation: 'fade', gestureEnabled: false }} />
+          <Stack.Screen
+            name="camera"
+            options={{ animation: 'slide_from_bottom', contentStyle: { backgroundColor: colors.dark } }}
+          />
+          <Stack.Screen
+            name="capture-review"
+            options={{ animation: 'fade', gestureEnabled: false, contentStyle: { backgroundColor: colors.dark } }}
+          />
+          <Stack.Screen name="preset-edit" options={{ animation: 'slide_from_right' }} />
+          <Stack.Screen name="settings/[section]" options={{ animation: 'slide_from_right' }} />
+        </Stack>
+      </AppDataProvider>
+    </SafeAreaProvider>
   );
 }

@@ -1,0 +1,30 @@
+{
+    "$schema":  "https://nitro.margelo.com/nitro.schema.json",
+    "cxxNamespace":  [
+                         "gudopickvision"
+                     ],
+    "ios":  {
+                "iosModuleName":  "NitroGudopickVision"
+            },
+    "android":  {
+                    "androidNamespace":  [
+                                             "gudopickvision"
+                                         ],
+                    "androidCxxLibName":  "NitroGudopickVision"
+                },
+    "autolinking":  {
+                        "VisionDetector":  {
+                                               "android":  {
+                                                               "implementationClassName":  "HybridVisionDetector",
+                                                               "language":  "kotlin"
+                                                           },
+                                               "ios":  {
+                                                           "implementationClassName":  "HybridVisionDetector",
+                                                           "language":  "swift"
+                                                       }
+                                           }
+                    },
+    "ignorePaths":  [
+                        "**/node_modules"
+                    ]
+}

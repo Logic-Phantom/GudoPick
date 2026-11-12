@@ -41,3 +41,10 @@ example
 # generated native folders
 /ios
 /android
+
+# local build logs
+.build-*.log
+*.apk
+*.aab
+# keep settings local
+.claude/settings.local.json

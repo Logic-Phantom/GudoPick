@@ -1,0 +1,51 @@
+{
+    "name":  "gudopick-vision",
+    "version":  "0.0.1",
+    "description":  "구도픽 온디바이스 비전 Nitro 모듈 (ML Kit 얼굴/객체 감지)",
+    "main":  "src/index",
+    "module":  "src/index",
+    "types":  "src/index.ts",
+    "react-native":  "src/index",
+    "source":  "src/index",
+    "files":  [
+                  "src",
+                  "react-native.config.js",
+                  "lib",
+                  "nitrogen",
+                  "android/build.gradle",
+                  "android/gradle.properties",
+                  "android/fix-prefab.gradle",
+                  "android/CMakeLists.txt",
+                  "android/src",
+                  "cpp",
+                  "ios/**/*.h",
+                  "ios/**/*.m",
+                  "ios/**/*.mm",
+                  "ios/**/*.cpp",
+                  "ios/**/*.swift",
+                  "app.plugin.js",
+                  "nitro.json",
+                  "*.podspec",
+                  "README.md"
+              ],
+    "scripts":  {
+                    "specs":  "nitrogen"
+                },
+    "keywords":  [
+                     "react-native",
+                     "nitro"
+                 ],
+    "author":  "GudoPick",
+    "license":  "MIT",
+    "peerDependencies":  {
+                             "react":  "*",
+                             "react-native":  "*",
+                             "react-native-nitro-modules":  "*",
+                             "react-native-vision-camera":  "*"
+                         },
+    "peerDependenciesMeta":  {
+                                 "react-native-nitro-modules":  {
+                                                                    "optional":  true
+                                                                }
+                             }
+}

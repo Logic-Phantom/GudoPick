@@ -1,0 +1,361 @@
+{
+  "app": "구도픽 (GudoPick)",
+  "asset_count": 44,
+  "image_format": "JPEG",
+  "dimensions_px": "300x300",
+  "purpose": "온보딩 취향 선택, 프리셋 썸네일, 샘플 화면용 AI 생성 사진",
+  "assets": [
+    {
+      "file": "assets/portrait/portrait_seaside_profile.jpg",
+      "name": "portrait_seaside_profile",
+      "category": "portrait",
+      "composition_note": "인물 옆모습, 넓은 하늘 여백",
+      "suggested_use": "인물 취향 카드",
+      "source_sheet": "sheet_01_16"
+    },
+    {
+      "file": "assets/food-cafe/food_cafe_brunch_overhead.jpg",
+      "name": "food_cafe_brunch_overhead",
+      "category": "food-cafe",
+      "composition_note": "브런치와 커피 탑뷰",
+      "suggested_use": "음식/카페 취향 카드",
+      "source_sheet": "sheet_01_16"
+    },
+    {
+      "file": "assets/interior/interior_minimal_sofa.jpg",
+      "name": "interior_minimal_sofa",
+      "category": "interior",
+      "composition_note": "소파 중심, 밝은 실내",
+      "suggested_use": "샘플 프리셋",
+      "source_sheet": "sheet_01_16"
+    },
+    {
+      "file": "assets/landscape/landscape_sunset_horizon.jpg",
+      "name": "landscape_sunset_horizon",
+      "category": "landscape",
+      "composition_note": "바다 수평선, 중앙 배치",
+      "suggested_use": "풍경/수평선 가이드",
+      "source_sheet": "sheet_01_16"
+    },
+    {
+      "file": "assets/architecture/architecture_negative_space.jpg",
+      "name": "architecture_negative_space",
+      "category": "architecture",
+      "composition_note": "건축물과 넓은 하늘 여백",
+      "suggested_use": "여백/건축 구도",
+      "source_sheet": "sheet_01_16"
+    },
+    {
+      "file": "assets/pets/pet_dog_centered.jpg",
+      "name": "pet_dog_centered",
+      "category": "pets",
+      "composition_note": "강아지 정면 중앙 배치",
+      "suggested_use": "반려동물 샘플",
+      "source_sheet": "sheet_01_16"
+    },
+    {
+      "file": "assets/travel/travel_seoul_skyline_dusk.jpg",
+      "name": "travel_seoul_skyline_dusk",
+      "category": "travel",
+      "composition_note": "도시 스카이라인과 남산 타워",
+      "suggested_use": "여행 프리셋",
+      "source_sheet": "sheet_01_16"
+    },
+    {
+      "file": "assets/botanical/botanical_blossom_closeup.jpg",
+      "name": "botanical_blossom_closeup",
+      "category": "botanical",
+      "composition_note": "벚꽃 근접 촬영",
+      "suggested_use": "클로즈업 예시",
+      "source_sheet": "sheet_01_16"
+    },
+    {
+      "file": "assets/food-cafe/cafe_window_table.jpg",
+      "name": "cafe_window_table",
+      "category": "food-cafe",
+      "composition_note": "창가 카페 테이블, 공간 포함",
+      "suggested_use": "카페 프리셋",
+      "source_sheet": "sheet_01_16"
+    },
+    {
+      "file": "assets/objects/product_earbuds_minimal.jpg",
+      "name": "product_earbuds_minimal",
+      "category": "objects",
+      "composition_note": "이어버드 미니멀 정물",
+      "suggested_use": "사물/제품 구도",
+      "source_sheet": "sheet_01_16"
+    },
+    {
+      "file": "assets/portrait/portrait_back_view_sunset.jpg",
+      "name": "portrait_back_view_sunset",
+      "category": "portrait",
+      "composition_note": "인물 뒷모습, 풍경 포함",
+      "suggested_use": "인물/여백 구도",
+      "source_sheet": "sheet_01_16"
+    },
+    {
+      "file": "assets/food-cafe/food_pasta_closeup.jpg",
+      "name": "food_pasta_closeup",
+      "category": "food-cafe",
+      "composition_note": "파스타 근접 촬영",
+      "suggested_use": "음식 클로즈업",
+      "source_sheet": "sheet_01_16"
+    },
+    {
+      "file": "assets/landscape/landscape_lake_leading_lines.jpg",
+      "name": "landscape_lake_leading_lines",
+      "category": "landscape",
+      "composition_note": "호수 선착장 리딩라인",
+      "suggested_use": "풍경/선형 구도",
+      "source_sheet": "sheet_01_16"
+    },
+    {
+      "file": "assets/botanical/botanical_tulips_stilllife.jpg",
+      "name": "botanical_tulips_stilllife",
+      "category": "botanical",
+      "composition_note": "튤립 정물, 위에서 바라본 배치",
+      "suggested_use": "정물 프리셋",
+      "source_sheet": "sheet_01_16"
+    },
+    {
+      "file": "assets/city-night/city_night_bridge.jpg",
+      "name": "city_night_bridge",
+      "category": "city-night",
+      "composition_note": "야경과 다리의 반사",
+      "suggested_use": "야경 프리셋",
+      "source_sheet": "sheet_01_16"
+    },
+    {
+      "file": "assets/botanical/botanical_plant_minimal.jpg",
+      "name": "botanical_plant_minimal",
+      "category": "botanical",
+      "composition_note": "식물 한 줄기와 여백",
+      "suggested_use": "미니멀 구도",
+      "source_sheet": "sheet_01_16"
+    },
+    {
+      "file": "assets/portrait/portrait_seaside_closeup.jpg",
+      "name": "portrait_seaside_closeup",
+      "category": "portrait",
+      "composition_note": "해변 배경 인물 상반신",
+      "suggested_use": "인물 취향 카드",
+      "source_sheet": "sheet_02_16"
+    },
+    {
+      "file": "assets/food-cafe/food_croissant_latte_45.jpg",
+      "name": "food_croissant_latte_45",
+      "category": "food-cafe",
+      "composition_note": "커피와 크루아상 45도 시점",
+      "suggested_use": "카페/음식 구도",
+      "source_sheet": "sheet_02_16"
+    },
+    {
+      "file": "assets/interior/interior_bright_sofa.jpg",
+      "name": "interior_bright_sofa",
+      "category": "interior",
+      "composition_note": "햇빛이 드는 거실",
+      "suggested_use": "공간 프리셋",
+      "source_sheet": "sheet_02_16"
+    },
+    {
+      "file": "assets/travel/travel_namsan_pastel.jpg",
+      "name": "travel_namsan_pastel",
+      "category": "travel",
+      "composition_note": "분홍빛 하늘의 남산 스카이라인",
+      "suggested_use": "여행 프리셋",
+      "source_sheet": "sheet_02_16"
+    },
+    {
+      "file": "assets/travel/travel_cherry_blossom_street.jpg",
+      "name": "travel_cherry_blossom_street",
+      "category": "travel",
+      "composition_note": "벚꽃길 원근감",
+      "suggested_use": "리딩라인 구도",
+      "source_sheet": "sheet_02_16"
+    },
+    {
+      "file": "assets/food-cafe/food_breakfast_bowl_top.jpg",
+      "name": "food_breakfast_bowl_top",
+      "category": "food-cafe",
+      "composition_note": "요거트 볼 탑뷰",
+      "suggested_use": "음식 탑뷰",
+      "source_sheet": "sheet_02_16"
+    },
+    {
+      "file": "assets/pets/pet_dog_grass_closeup.jpg",
+      "name": "pet_dog_grass_closeup",
+      "category": "pets",
+      "composition_note": "잔디 위 강아지 클로즈업",
+      "suggested_use": "반려동물 샘플",
+      "source_sheet": "sheet_02_16"
+    },
+    {
+      "file": "assets/botanical/botanical_daisy_negative_space.jpg",
+      "name": "botanical_daisy_negative_space",
+      "category": "botanical",
+      "composition_note": "한 송이 꽃과 넓은 여백",
+      "suggested_use": "여백 구도",
+      "source_sheet": "sheet_02_16"
+    },
+    {
+      "file": "assets/landscape/landscape_lighthouse_coast.jpg",
+      "name": "landscape_lighthouse_coast",
+      "category": "landscape",
+      "composition_note": "등대와 바다, 삼분할 배치",
+      "suggested_use": "풍경 구도",
+      "source_sheet": "sheet_02_16"
+    },
+    {
+      "file": "assets/portrait/portrait_backlit_city.jpg",
+      "name": "portrait_backlit_city",
+      "category": "portrait",
+      "composition_note": "노을 속 인물 뒷모습",
+      "suggested_use": "인물 실루엣 구도",
+      "source_sheet": "sheet_02_16"
+    },
+    {
+      "file": "assets/architecture/architecture_low_angle.jpg",
+      "name": "architecture_low_angle",
+      "category": "architecture",
+      "composition_note": "건축물 로우 앵글",
+      "suggested_use": "건축/로우 앵글",
+      "source_sheet": "sheet_02_16"
+    },
+    {
+      "file": "assets/food-cafe/food_strawberry_cake_closeup.jpg",
+      "name": "food_strawberry_cake_closeup",
+      "category": "food-cafe",
+      "composition_note": "케이크 디테일 클로즈업",
+      "suggested_use": "음식 클로즈업",
+      "source_sheet": "sheet_02_16"
+    },
+    {
+      "file": "assets/pets/pet_cat_sleeping.jpg",
+      "name": "pet_cat_sleeping",
+      "category": "pets",
+      "composition_note": "햇빛 아래 잠든 고양이",
+      "suggested_use": "반려동물 샘플",
+      "source_sheet": "sheet_02_16"
+    },
+    {
+      "file": "assets/travel/travel_airplane_window.jpg",
+      "name": "travel_airplane_window",
+      "category": "travel",
+      "composition_note": "비행기 창문으로 본 구름",
+      "suggested_use": "여행 프리셋",
+      "source_sheet": "sheet_02_16"
+    },
+    {
+      "file": "assets/botanical/botanical_branch_shadow.jpg",
+      "name": "botanical_branch_shadow",
+      "category": "botanical",
+      "composition_note": "벽에 드리운 잎 그림자",
+      "suggested_use": "미니멀 구도",
+      "source_sheet": "sheet_02_16"
+    },
+    {
+      "file": "assets/city-night/city_night_seoul_bridge.jpg",
+      "name": "city_night_seoul_bridge",
+      "category": "city-night",
+      "composition_note": "도시 야경과 강변 다리",
+      "suggested_use": "야경 프리셋",
+      "source_sheet": "sheet_02_16"
+    },
+    {
+      "file": "assets/portrait/portrait_city_ocean_profile.jpg",
+      "name": "portrait_city_ocean_profile",
+      "category": "portrait",
+      "composition_note": "바다와 도시가 보이는 인물 옆모습",
+      "suggested_use": "인물 구도",
+      "source_sheet": "sheet_03_12"
+    },
+    {
+      "file": "assets/food-cafe/food_pasta_cafe_overhead.jpg",
+      "name": "food_pasta_cafe_overhead",
+      "category": "food-cafe",
+      "composition_note": "파스타와 음료가 함께 보이는 테이블 탑뷰",
+      "suggested_use": "음식/카페 구도",
+      "source_sheet": "sheet_03_12"
+    },
+    {
+      "file": "assets/interior/interior_sofa_sunlight.jpg",
+      "name": "interior_sofa_sunlight",
+      "category": "interior",
+      "composition_note": "햇빛과 그림자가 있는 소파 공간",
+      "suggested_use": "공간 프리셋",
+      "source_sheet": "sheet_03_12"
+    },
+    {
+      "file": "assets/landscape/landscape_sunset_rocky_coast.jpg",
+      "name": "landscape_sunset_rocky_coast",
+      "category": "landscape",
+      "composition_note": "바위 전경과 노을 수평선",
+      "suggested_use": "풍경 구도",
+      "source_sheet": "sheet_03_12"
+    },
+    {
+      "file": "assets/travel/travel_seoul_tower_evening.jpg",
+      "name": "travel_seoul_tower_evening",
+      "category": "travel",
+      "composition_note": "도시 위 타워와 하늘",
+      "suggested_use": "여행 프리셋",
+      "source_sheet": "sheet_03_12"
+    },
+    {
+      "file": "assets/pets/pet_dog_grass_portrait.jpg",
+      "name": "pet_dog_grass_portrait",
+      "category": "pets",
+      "composition_note": "잔디 위 강아지 인물 사진",
+      "suggested_use": "반려동물 샘플",
+      "source_sheet": "sheet_03_12"
+    },
+    {
+      "file": "assets/botanical/botanical_white_blossoms.jpg",
+      "name": "botanical_white_blossoms",
+      "category": "botanical",
+      "composition_note": "흰 꽃 가지 클로즈업",
+      "suggested_use": "클로즈업 예시",
+      "source_sheet": "sheet_03_12"
+    },
+    {
+      "file": "assets/travel/travel_narrow_street_leading_lines.jpg",
+      "name": "travel_narrow_street_leading_lines",
+      "category": "travel",
+      "composition_note": "골목의 소실점과 리딩라인",
+      "suggested_use": "원근 구도",
+      "source_sheet": "sheet_03_12"
+    },
+    {
+      "file": "assets/food-cafe/food_iced_coffee_minimal.jpg",
+      "name": "food_iced_coffee_minimal",
+      "category": "food-cafe",
+      "composition_note": "창가의 아이스 커피",
+      "suggested_use": "카페 정물",
+      "source_sheet": "sheet_03_12"
+    },
+    {
+      "file": "assets/landscape/landscape_beach_horizon.jpg",
+      "name": "landscape_beach_horizon",
+      "category": "landscape",
+      "composition_note": "넓은 바다와 수평선",
+      "suggested_use": "풍경/수평선",
+      "source_sheet": "sheet_03_12"
+    },
+    {
+      "file": "assets/botanical/botanical_plant_shadow_stilllife.jpg",
+      "name": "botanical_plant_shadow_stilllife",
+      "category": "botanical",
+      "composition_note": "화병 식물과 창문 그림자",
+      "suggested_use": "미니멀 구도",
+      "source_sheet": "sheet_03_12"
+    },
+    {
+      "file": "assets/ootd/ootd_back_view_minimal.jpg",
+      "name": "ootd_back_view_minimal",
+      "category": "ootd",
+      "composition_note": "미니멀한 벽 앞 인물 뒷모습",
+      "suggested_use": "OOTD 취향 카드",
+      "source_sheet": "sheet_03_12"
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "generatedAt": "2026-11-12",
+  "total": 550,
+  "counts": {
+    "MIT": 478,
+    "ISC": 24,
+    "BSD-3-Clause": 6,
+    "Python-2.0": 1,
+    "Apache-2.0": 5,
+    "Unlicense": 2,
+    "CC-BY-4.0": 1,
+    "BSD-2-Clause": 9,
+    "(MIT OR Apache-2.0)": 1,
+    "BlueOak-1.0.0": 6,
+    "0BSD": 1,
+    "MPL-2.0": 12,
+    "CC0-1.0": 1,
+    "(BSD-3-Clause OR GPL-2.0)": 1,
+    "(MIT OR CC0-1.0)": 2
+  },
+  "direct": [
+    {
+      "name": "expo",
+      "version": "58.0.23",
+      "license": "MIT"
+    },
+    {
+      "name": "expo-asset",
+      "version": "58.0.20",
+      "license": "MIT"
+    },
+    {
+      "name": "expo-build-properties",
+      "version": "58.0.12",
+      "license": "MIT"
+    },
+    {
+      "name": "expo-constants",
+      "version": "58.0.15",
+      "license": "MIT"
+    },
+    {
+      "name": "expo-file-system",
+      "version": "58.0.13",
+      "license": "MIT"
+    },
+    {
+      "name": "expo-haptics",
+      "version": "58.0.7",
+      "license": "MIT"
+    },
+    {
+      "name": "expo-linear-gradient",
+      "version": "58.0.3",
+      "license": "MIT"
+    },
+    {
+      "name": "expo-linking",
+      "version": "58.0.16",
+      "license": "MIT"
+    },
+    {
+      "name": "expo-media-library",
+      "version": "58.0.13",
+      "license": "MIT"
+    },
+    {
+      "name": "expo-router",
+      "version": "58.0.30",
+      "license": "MIT"
+    },
+    {
+      "name": "expo-sensors",
+      "version": "58.0.4",
+      "license": "MIT"
+    },
+    {
+      "name": "expo-splash-screen",
+      "version": "58.0.13",
+      "license": "MIT"
+    },
+    {
+      "name": "expo-sqlite",
+      "version": "58.0.15",
+      "license": "MIT"
+    },
+    {
+      "name": "expo-status-bar",
+      "version": "58.0.4",
+      "license": "MIT"
+    },
+    {
+      "name": "expo-system-ui",
+      "version": "58.0.7",
+      "license": "MIT"
+    },
+    {
+      "name": "react",
+      "version": "19.3.0",
+      "license": "MIT"
+    },
+    {
+      "name": "react-native",
+      "version": "0.88.1",
+      "license": "MIT"
+    },
+    {
+      "name": "react-native-nitro-image",
+      "version": "0.15.2",
+      "license": "MIT"
+    },
+    {
+      "name": "react-native-nitro-modules",
+      "version": "0.37.2",
+      "license": "MIT"
+    },
+    {
+      "name": "react-native-reanimated",
+      "version": "4.7.1",
+      "license": "MIT"
+    },
+    {
+      "name": "react-native-safe-area-context",
+      "version": "5.11.1",
+      "license": "MIT"
+    },
+    {
+      "name": "react-native-screens",
+      "version": "4.30.1",
+      "license": "MIT"
+    },
+    {
+      "name": "react-native-svg",
+      "version": "15.16.0",
+      "license": "MIT"
+    },
+    {
+      "name": "react-native-vision-camera",
+      "version": "5.2.4",
+      "license": "MIT"
+    },
+    {
+      "name": "react-native-vision-camera-worklets",
+      "version": "5.2.4",
+      "license": "MIT"
+    },
+    {
+      "name": "react-native-worklets",
+      "version": "0.13.0",
+      "license": "MIT"
+    }
+  ],
+  "needsReview": [
+    {
+      "name": "lightningcss",
+      "version": "1.33.0",
+      "license": "MPL-2.0"
+    },
+    {
+      "name": "lightningcss-android-arm64",
+      "version": "1.33.0",
+      "license": "MPL-2.0"
+    },
+    {
+      "name": "lightningcss-darwin-arm64",
+      "version": "1.33.0",
+      "license": "MPL-2.0"
+    },
+    {
+      "name": "lightningcss-darwin-x64",
+      "version": "1.33.0",
+      "license": "MPL-2.0"
+    },
+    {
+      "name": "lightningcss-freebsd-x64",
+      "version": "1.33.0",
+      "license": "MPL-2.0"
+    },
+    {
+      "name": "lightningcss-linux-arm-gnueabihf",
+      "version": "1.33.0",
+      "license": "MPL-2.0"
+    },
+    {
+      "name": "lightningcss-linux-arm64-gnu",
+      "version": "1.33.0",
+      "license": "MPL-2.0"
+    },
+    {
+      "name": "lightningcss-linux-arm64-musl",
+      "version": "1.33.0",
+      "license": "MPL-2.0"
+    },
+    {
+      "name": "lightningcss-linux-x64-gnu",
+      "version": "1.33.0",
+      "license": "MPL-2.0"
+    },
+    {
+      "name": "lightningcss-linux-x64-musl",
+      "version": "1.33.0",
+      "license": "MPL-2.0"
+    },
+    {
+      "name": "lightningcss-win32-arm64-msvc",
+      "version": "1.33.0",
+      "license": "MPL-2.0"
+    },
+    {
+      "name": "lightningcss-win32-x64-msvc",
+      "version": "1.33.0",
+      "license": "MPL-2.0"
+    }
+  ]
+}
